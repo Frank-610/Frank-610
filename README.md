@@ -1,4 +1,5 @@
 <h1>💫 About Me:</h1>
+<h2>My main GitHub account is @<Frank-609>. Please follow me there for my latest projects.</h2>
 <p>💻 Computer Engineer passionate about programming and electronics<br>
 📚 Currently learning about databases<br>
 ⚙️ Enthusiastic about hands-on projects and coding challenges<br>
